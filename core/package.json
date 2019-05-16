@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "laravel-elixir": "*"
+  },
+  "dependencies": {
+    "popper.js": "^1.14.7"
+  }
+}

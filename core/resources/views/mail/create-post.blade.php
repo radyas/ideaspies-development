@@ -1,0 +1,1 @@
+<h4>New post has been created</h4>

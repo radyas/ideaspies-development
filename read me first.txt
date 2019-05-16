@@ -1,0 +1,11 @@
+admin panel login credentials
+
+User name : sdc
+Password  : 123456
+
+Url is : localhost/(folder Name)/admin
+
+Database name should be : sweet.delight.db
+When you create table ,pls use sa_yourtablename
+
+Current Version is T1.1VER (This is still Under Development)
